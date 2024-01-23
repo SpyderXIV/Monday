@@ -1,0 +1,1 @@
+Welcome to Alien Game! This game is a story-driven game about you defending (or harming), the last city on Earth by using weapons, and powers to aid your endeavours. Instructions on how to choose your choices will be provided upon booting up the game
