@@ -3,7 +3,7 @@ In order to play, you must have the following installed:
 - Python 3.12
 - Visual Studio Code
 
-1. Download the game filed named: Alien_game.py
+1. Download the game filed named: Alien_Game.py
 2. Open up VS code
 3. Import the file
 4. Then hover over "run" and click "run without debugging"
